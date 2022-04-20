@@ -4,7 +4,7 @@
 ## 1. Clone the source code
   cd ~/catkin_ws/src
   
-  git clone git@github.com:zhaojieting/lane_following.git
+  git clone https://github.com/rex131/line-follow.git
   
 ## 2. Catkin make the lane following package
   cd ..
